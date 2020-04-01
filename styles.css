@@ -1,0 +1,47 @@
+body {
+  font-family :"georgia", sans-serif;
+  font-weight: bold;
+  background-color: turquoise;
+  text-align: center;
+}
+
+#Selfie {
+  transform: rotate(270deg);
+}
+
+#Missy {
+  transform: rotate(90deg);
+}
+
+h1 {
+  font-size: 48px;
+  color: #EC1818;
+
+
+}
+h2 {
+  font-size: 38px;
+  color: #6218EC;
+}
+h3 {
+  font-size: 32px;
+  color: #559443;
+}
+h4 {
+  font-size: 28px;
+  color: #C83300;
+
+}
+h5 {
+  font-size: 24px;
+  color: #E6EC18;
+}
+p {
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+ul {
+  font-size: 20px;
+  color: #FFFFFF;
+}
